@@ -31,5 +31,4 @@ A simple and efficient **URL shortening application** built with **React (TypeSc
 
 ---
 
-## 📂 Project Structure
 
